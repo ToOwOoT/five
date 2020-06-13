@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\暗黑原型智能体战姬\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\暗黑原型智能体战姬\\.nuget\\packages"
+    ]
+  }
+}
